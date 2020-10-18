@@ -1,0 +1,2608 @@
+[
+  {
+    "Provinces": [
+      {
+        "Cities": [
+          {
+            "Name": "台北市/Taipei City",
+            "Cn": "台北市",
+            "En": "Taipei City",
+            "Id": 10399
+          },
+          {
+            "Name": "桃园县/Taoyuan County",
+            "Cn": "桃园县",
+            "En": "Taoyuan County",
+            "Id": 10400
+          },
+          {
+            "Name": "新竹县/Hsinchu County",
+            "Cn": "新竹县",
+            "En": "Hsinchu County",
+            "Id": 10401
+          },
+          {
+            "Name": "苗栗县/Miaoli County",
+            "Cn": "苗栗县",
+            "En": "Miaoli County",
+            "Id": 10402
+          },
+          {
+            "Name": "台中县/Taichung County",
+            "Cn": "台中县",
+            "En": "Taichung County",
+            "Id": 10403
+          },
+          {
+            "Name": "彰化县/Changhwa County",
+            "Cn": "彰化县",
+            "En": "Changhwa County",
+            "Id": 10404
+          },
+          {
+            "Name": "南投县/Nantou County",
+            "Cn": "南投县",
+            "En": "Nantou County",
+            "Id": 10405
+          },
+          {
+            "Name": "云林县/Yunnlin County",
+            "Cn": "云林县",
+            "En": "Yunnlin County",
+            "Id": 10406
+          },
+          {
+            "Name": "嘉义县/Chiayi County",
+            "Cn": "嘉义县",
+            "En": "Chiayi County",
+            "Id": 10407
+          },
+          {
+            "Name": "台南县/Tainan County",
+            "Cn": "台南县",
+            "En": "Tainan County",
+            "Id": 10408
+          },
+          {
+            "Name": "高雄县/Kaohsiung County",
+            "Cn": "高雄县",
+            "En": "Kaohsiung County",
+            "Id": 10409
+          },
+          {
+            "Name": "高雄市/Kaohsiung City",
+            "Cn": "高雄市",
+            "En": "Kaohsiung City",
+            "Id": 10410
+          },
+          {
+            "Name": "屏东县/Pingtung County",
+            "Cn": "屏东县",
+            "En": "Pingtung County",
+            "Id": 10411
+          },
+          {
+            "Name": "澎湖县/Penghu County",
+            "Cn": "澎湖县",
+            "En": "Penghu County",
+            "Id": 10412
+          },
+          {
+            "Name": "台东县/Taitung County",
+            "Cn": "台东县",
+            "En": "Taitung County",
+            "Id": 10413
+          },
+          {
+            "Name": "花莲县/Hualian County",
+            "Cn": "花莲县",
+            "En": "Hualian County",
+            "Id": 10414
+          },
+          {
+            "Name": "基隆市/Keelung City",
+            "Cn": "基隆市",
+            "En": "Keelung City",
+            "Id": 10415
+          },
+          {
+            "Name": "台中市/Taichung City",
+            "Cn": "台中市",
+            "En": "Taichung City",
+            "Id": 10416
+          },
+          {
+            "Name": "台南市/Tainan City",
+            "Cn": "台南市",
+            "En": "Tainan City",
+            "Id": 10417
+          },
+          {
+            "Name": "新竹市/Hsinchu City",
+            "Cn": "新竹市",
+            "En": "Hsinchu City",
+            "Id": 10418
+          },
+          {
+            "Name": "嘉义市/Chiayi City",
+            "Cn": "嘉义市",
+            "En": "Chiayi City",
+            "Id": 10419
+          },
+          {
+            "Name": "台北县/Taipei County",
+            "Cn": "台北县",
+            "En": "Taipei County",
+            "Id": 10420
+          },
+          {
+            "Name": "宜兰县/Ilan County",
+            "Cn": "宜兰县",
+            "En": "Ilan County",
+            "Id": 10421
+          }
+        ],
+        "Code": "TWN",
+        "TelPrefix": "886",
+        "Name": "中国台湾/Taiwan",
+        "Cn": "中国台湾",
+        "En": "Taiwan",
+        "Id": 10397,
+        "FirstEn": "T"
+      },
+      {
+        "Cities": [],
+        "Code": "HKG",
+        "TelPrefix": "852",
+        "Name": "中国香港/Hongkong SAR",
+        "Cn": "中国香港",
+        "En": "Hongkong SAR",
+        "Id": 10395,
+        "FirstEn": "X"
+      },
+      {
+        "Cities": [],
+        "Code": "MAC",
+        "TelPrefix": "853",
+        "Name": "中国澳门/Macao SAR",
+        "Cn": "中国澳门",
+        "En": "Macao SAR",
+        "Id": 10396,
+        "FirstEn": "A"
+      },
+      {
+        "Cities": [
+          {
+            "Name": "北京/Beijing",
+            "Cn": "北京",
+            "En": "Beijing",
+            "Id": 10002
+          }
+        ],
+        "Name": "北京/Beijing",
+        "Cn": "北京",
+        "En": "Beijing",
+        "Id": 10001
+      },
+      {
+        "Cities": [
+          {
+            "Name": "天津/Tianjin",
+            "Cn": "天津",
+            "En": "Tianjin",
+            "Id": 10004
+          }
+        ],
+        "Name": "天津/Tianjin",
+        "Cn": "天津",
+        "En": "Tianjin",
+        "Id": 10003
+      },
+      {
+        "Cities": [
+          {
+            "Name": "上海/Shanghai",
+            "Cn": "上海",
+            "En": "Shanghai",
+            "Id": 10006
+          }
+        ],
+        "Name": "上海/Shanghai",
+        "Cn": "上海",
+        "En": "Shanghai",
+        "Id": 10005
+      },
+      {
+        "Cities": [
+          {
+            "Name": "重庆/Chongqing",
+            "Cn": "重庆",
+            "En": "Chongqing",
+            "Id": 10008
+          }
+        ],
+        "Name": "重庆/Chongqing",
+        "Cn": "重庆",
+        "En": "Chongqing",
+        "Id": 10007
+      },
+      {
+        "Cities": [
+          {
+            "Name": "石家庄/Shijiazhuang",
+            "Cn": "石家庄",
+            "En": "Shijiazhuang",
+            "Id": 10010
+          },
+          {
+            "Name": "廊坊/Langfang",
+            "Cn": "廊坊",
+            "En": "Langfang",
+            "Id": 10011
+          },
+          {
+            "Name": "衡水/Hengshui",
+            "Cn": "衡水",
+            "En": "Hengshui",
+            "Id": 10012
+          },
+          {
+            "Name": "唐山/Tangshan",
+            "Cn": "唐山",
+            "En": "Tangshan",
+            "Id": 10013
+          },
+          {
+            "Name": "秦皇岛/Qinhuangdao",
+            "Cn": "秦皇岛",
+            "En": "Qinhuangdao",
+            "Id": 10014
+          },
+          {
+            "Name": "邯郸/Handan",
+            "Cn": "邯郸",
+            "En": "Handan",
+            "Id": 10015
+          },
+          {
+            "Name": "邢台/Xingtai",
+            "Cn": "邢台",
+            "En": "Xingtai",
+            "Id": 10016
+          },
+          {
+            "Name": "保定/Baoding",
+            "Cn": "保定",
+            "En": "Baoding",
+            "Id": 10017
+          },
+          {
+            "Name": "张家口/Zhangjiakou",
+            "Cn": "张家口",
+            "En": "Zhangjiakou",
+            "Id": 10018
+          },
+          {
+            "Name": "承德/Chengde",
+            "Cn": "承德",
+            "En": "Chengde",
+            "Id": 10019
+          },
+          {
+            "Name": "沧州/Cangzhou",
+            "Cn": "沧州",
+            "En": "Cangzhou",
+            "Id": 10020
+          }
+        ],
+        "Name": "河北/Hebei",
+        "Cn": "河北",
+        "En": "Hebei",
+        "Id": 10009
+      },
+      {
+        "Cities": [
+          {
+            "Name": "太原/Taiyuan",
+            "Cn": "太原",
+            "En": "Taiyuan",
+            "Id": 10022
+          },
+          {
+            "Name": "临汾/Linfen",
+            "Cn": "临汾",
+            "En": "Linfen",
+            "Id": 10023
+          },
+          {
+            "Name": "吕梁/luliang",
+            "Cn": "吕梁",
+            "En": "luliang",
+            "Id": 10024
+          },
+          {
+            "Name": "大同/Datong",
+            "Cn": "大同",
+            "En": "Datong",
+            "Id": 10025
+          },
+          {
+            "Name": "阳泉/Yangquan",
+            "Cn": "阳泉",
+            "En": "Yangquan",
+            "Id": 10026
+          },
+          {
+            "Name": "长治/Changzhi",
+            "Cn": "长治",
+            "En": "Changzhi",
+            "Id": 10027
+          },
+          {
+            "Name": "晋城/Jincheng",
+            "Cn": "晋城",
+            "En": "Jincheng",
+            "Id": 10028
+          },
+          {
+            "Name": "朔州/Shuozhou",
+            "Cn": "朔州",
+            "En": "Shuozhou",
+            "Id": 10029
+          },
+          {
+            "Name": "晋中/Jinzhong",
+            "Cn": "晋中",
+            "En": "Jinzhong",
+            "Id": 10030
+          },
+          {
+            "Name": "运城/Yuncheng",
+            "Cn": "运城",
+            "En": "Yuncheng",
+            "Id": 10031
+          },
+          {
+            "Name": "忻州/Xinzhou",
+            "Cn": "忻州",
+            "En": "Xinzhou",
+            "Id": 10032
+          }
+        ],
+        "Name": "山西/Shanxi",
+        "Cn": "山西",
+        "En": "Shanxi",
+        "Id": 10021
+      },
+      {
+        "Cities": [
+          {
+            "Name": "呼和浩特/Hohhot",
+            "Cn": "呼和浩特",
+            "En": "Hohhot",
+            "Id": 10034
+          },
+          {
+            "Name": "包头/Baotou",
+            "Cn": "包头",
+            "En": "Baotou",
+            "Id": 10035
+          },
+          {
+            "Name": "兴安/Xing'an",
+            "Cn": "兴安",
+            "En": "Xing'an",
+            "Id": 10036
+          },
+          {
+            "Name": "锡林郭勒/Xilin Gol",
+            "Cn": "锡林郭勒",
+            "En": "Xilin Gol",
+            "Id": 10037
+          },
+          {
+            "Name": "阿拉善/Alxa",
+            "Cn": "阿拉善",
+            "En": "Alxa",
+            "Id": 10038
+          },
+          {
+            "Name": "乌海/Wuhai",
+            "Cn": "乌海",
+            "En": "Wuhai",
+            "Id": 10039
+          },
+          {
+            "Name": "赤峰/Chifeng",
+            "Cn": "赤峰",
+            "En": "Chifeng",
+            "Id": 10040
+          },
+          {
+            "Name": "通辽/Tongliao",
+            "Cn": "通辽",
+            "En": "Tongliao",
+            "Id": 10041
+          },
+          {
+            "Name": "鄂尔多斯/Ordos",
+            "Cn": "鄂尔多斯",
+            "En": "Ordos",
+            "Id": 10042
+          },
+          {
+            "Name": "呼伦贝尔/Hulun Buir",
+            "Cn": "呼伦贝尔",
+            "En": "Hulun Buir",
+            "Id": 10043
+          },
+          {
+            "Name": "巴彦淖尔/Bayannur",
+            "Cn": "巴彦淖尔",
+            "En": "Bayannur",
+            "Id": 10044
+          },
+          {
+            "Name": "乌兰察布/Ulan Qab",
+            "Cn": "乌兰察布",
+            "En": "Ulan Qab",
+            "Id": 10045
+          }
+        ],
+        "Name": "内蒙古/Inner Mongolia",
+        "Cn": "内蒙古",
+        "En": "Inner Mongolia",
+        "Id": 10033
+      },
+      {
+        "Cities": [
+          {
+            "Name": "沈阳/Shenyang",
+            "Cn": "沈阳",
+            "En": "Shenyang",
+            "Id": 10047
+          },
+          {
+            "Name": "辽阳/Liaoyang",
+            "Cn": "辽阳",
+            "En": "Liaoyang",
+            "Id": 10048
+          },
+          {
+            "Name": "盘锦/Panjin",
+            "Cn": "盘锦",
+            "En": "Panjin",
+            "Id": 10049
+          },
+          {
+            "Name": "铁岭/Tieling",
+            "Cn": "铁岭",
+            "En": "Tieling",
+            "Id": 10050
+          },
+          {
+            "Name": "朝阳/Chaoyang",
+            "Cn": "朝阳",
+            "En": "Chaoyang",
+            "Id": 10051
+          },
+          {
+            "Name": "葫芦岛/Huludao",
+            "Cn": "葫芦岛",
+            "En": "Huludao",
+            "Id": 10052
+          },
+          {
+            "Name": "大连/Dalian",
+            "Cn": "大连",
+            "En": "Dalian",
+            "Id": 10053
+          },
+          {
+            "Name": "鞍山/Anshan",
+            "Cn": "鞍山",
+            "En": "Anshan",
+            "Id": 10054
+          },
+          {
+            "Name": "抚顺/Fushun",
+            "Cn": "抚顺",
+            "En": "Fushun",
+            "Id": 10055
+          },
+          {
+            "Name": "本溪/Benxi",
+            "Cn": "本溪",
+            "En": "Benxi",
+            "Id": 10056
+          },
+          {
+            "Name": "丹东/Dandong",
+            "Cn": "丹东",
+            "En": "Dandong",
+            "Id": 10057
+          },
+          {
+            "Name": "锦州/Jinzhou",
+            "Cn": "锦州",
+            "En": "Jinzhou",
+            "Id": 10058
+          },
+          {
+            "Name": "营口/Yingkou",
+            "Cn": "营口",
+            "En": "Yingkou",
+            "Id": 10059
+          },
+          {
+            "Name": "阜新/Fuxin",
+            "Cn": "阜新",
+            "En": "Fuxin",
+            "Id": 10060
+          }
+        ],
+        "Name": "辽宁/Liaoning",
+        "Cn": "辽宁",
+        "En": "Liaoning",
+        "Id": 10046
+      },
+      {
+        "Cities": [
+          {
+            "Name": "长春/Changchun",
+            "Cn": "长春",
+            "En": "Changchun",
+            "Id": 10062
+          },
+          {
+            "Name": "吉林/Jilin",
+            "Cn": "吉林",
+            "En": "Jilin",
+            "Id": 10063
+          },
+          {
+            "Name": "延边/Yanbian Korean Autonomous Prefecture",
+            "Cn": "延边",
+            "En": "Yanbian Korean Autonomous Prefecture",
+            "Id": 10064
+          },
+          {
+            "Name": "四平/Siping",
+            "Cn": "四平",
+            "En": "Siping",
+            "Id": 10065
+          },
+          {
+            "Name": "辽源/Liaoyuan",
+            "Cn": "辽源",
+            "En": "Liaoyuan",
+            "Id": 10066
+          },
+          {
+            "Name": "通化/Tonghua",
+            "Cn": "通化",
+            "En": "Tonghua",
+            "Id": 10067
+          },
+          {
+            "Name": "白山/Baishan",
+            "Cn": "白山",
+            "En": "Baishan",
+            "Id": 10068
+          },
+          {
+            "Name": "松原/Songyuan",
+            "Cn": "松原",
+            "En": "Songyuan",
+            "Id": 10069
+          },
+          {
+            "Name": "白城/Baicheng",
+            "Cn": "白城",
+            "En": "Baicheng",
+            "Id": 10070
+          }
+        ],
+        "Name": "吉林/Jilin",
+        "Cn": "吉林",
+        "En": "Jilin",
+        "Id": 10061
+      },
+      {
+        "Cities": [
+          {
+            "Name": "哈尔滨/Harbin",
+            "Cn": "哈尔滨",
+            "En": "Harbin",
+            "Id": 10072
+          },
+          {
+            "Name": "牡丹江/Mudanjiang",
+            "Cn": "牡丹江",
+            "En": "Mudanjiang",
+            "Id": 10073
+          },
+          {
+            "Name": "黑河/Heihe",
+            "Cn": "黑河",
+            "En": "Heihe",
+            "Id": 10074
+          },
+          {
+            "Name": "绥化/Suihua",
+            "Cn": "绥化",
+            "En": "Suihua",
+            "Id": 10075
+          },
+          {
+            "Name": "齐齐哈尔/Qiqihar",
+            "Cn": "齐齐哈尔",
+            "En": "Qiqihar",
+            "Id": 10076
+          },
+          {
+            "Name": "大兴安岭/Da Hinggan Ling",
+            "Cn": "大兴安岭",
+            "En": "Da Hinggan Ling",
+            "Id": 10077
+          },
+          {
+            "Name": "鸡西/Jixi",
+            "Cn": "鸡西",
+            "En": "Jixi",
+            "Id": 10078
+          },
+          {
+            "Name": "鹤岗/Hegang",
+            "Cn": "鹤岗",
+            "En": "Hegang",
+            "Id": 10079
+          },
+          {
+            "Name": "双鸭山/Shuangyashan",
+            "Cn": "双鸭山",
+            "En": "Shuangyashan",
+            "Id": 10080
+          },
+          {
+            "Name": "大庆/Daqing",
+            "Cn": "大庆",
+            "En": "Daqing",
+            "Id": 10081
+          },
+          {
+            "Name": "伊春/Yichun",
+            "Cn": "伊春",
+            "En": "Yichun",
+            "Id": 10082
+          },
+          {
+            "Name": "佳木斯/Jiamusi",
+            "Cn": "佳木斯",
+            "En": "Jiamusi",
+            "Id": 10083
+          },
+          {
+            "Name": "七台河/Qitaihe",
+            "Cn": "七台河",
+            "En": "Qitaihe",
+            "Id": 10084
+          }
+        ],
+        "Name": "黑龙江/Heilongjiang",
+        "Cn": "黑龙江",
+        "En": "Heilongjiang",
+        "Id": 10071
+      },
+      {
+        "Cities": [
+          {
+            "Name": "南京/Nanjing",
+            "Cn": "南京",
+            "En": "Nanjing",
+            "Id": 10086
+          },
+          {
+            "Name": "扬州/Yangzhou",
+            "Cn": "扬州",
+            "En": "Yangzhou",
+            "Id": 10087
+          },
+          {
+            "Name": "镇江/Zhenjiang",
+            "Cn": "镇江",
+            "En": "Zhenjiang",
+            "Id": 10088
+          },
+          {
+            "Name": "泰州/Taizhou",
+            "Cn": "泰州",
+            "En": "Taizhou",
+            "Id": 10089
+          },
+          {
+            "Name": "宿迁/Suqian",
+            "Cn": "宿迁",
+            "En": "Suqian",
+            "Id": 10090
+          },
+          {
+            "Name": "无锡/Wuxi",
+            "Cn": "无锡",
+            "En": "Wuxi",
+            "Id": 10091
+          },
+          {
+            "Name": "徐州/Xuzhou",
+            "Cn": "徐州",
+            "En": "Xuzhou",
+            "Id": 10092
+          },
+          {
+            "Name": "常州/Changzhou",
+            "Cn": "常州",
+            "En": "Changzhou",
+            "Id": 10093
+          },
+          {
+            "Name": "苏州/Suzhou",
+            "Cn": "苏州",
+            "En": "Suzhou",
+            "Id": 10094
+          },
+          {
+            "Name": "南通/Nantong",
+            "Cn": "南通",
+            "En": "Nantong",
+            "Id": 10095
+          },
+          {
+            "Name": "连云港/Lianyungang",
+            "Cn": "连云港",
+            "En": "Lianyungang",
+            "Id": 10096
+          },
+          {
+            "Name": "淮安/Huai'an",
+            "Cn": "淮安",
+            "En": "Huai'an",
+            "Id": 10097
+          },
+          {
+            "Name": "盐城/Yancheng",
+            "Cn": "盐城",
+            "En": "Yancheng",
+            "Id": 10098
+          }
+        ],
+        "Name": "江苏/Jiangsu",
+        "Cn": "江苏",
+        "En": "Jiangsu",
+        "Id": 10085
+      },
+      {
+        "Cities": [
+          {
+            "Name": "杭州/Hangzhou",
+            "Cn": "杭州",
+            "En": "Hangzhou",
+            "Id": 10100
+          },
+          {
+            "Name": "台州/Taizhou",
+            "Cn": "台州",
+            "En": "Taizhou",
+            "Id": 10101
+          },
+          {
+            "Name": "丽水/Lishui",
+            "Cn": "丽水",
+            "En": "Lishui",
+            "Id": 10102
+          },
+          {
+            "Name": "宁波/Ningbo",
+            "Cn": "宁波",
+            "En": "Ningbo",
+            "Id": 10103
+          },
+          {
+            "Name": "温州/Wenzhou",
+            "Cn": "温州",
+            "En": "Wenzhou",
+            "Id": 10104
+          },
+          {
+            "Name": "嘉兴/Jiaxing",
+            "Cn": "嘉兴",
+            "En": "Jiaxing",
+            "Id": 10105
+          },
+          {
+            "Name": "湖州/Huzhou",
+            "Cn": "湖州",
+            "En": "Huzhou",
+            "Id": 10106
+          },
+          {
+            "Name": "绍兴/Shaoxing",
+            "Cn": "绍兴",
+            "En": "Shaoxing",
+            "Id": 10107
+          },
+          {
+            "Name": "金华/Jinhua",
+            "Cn": "金华",
+            "En": "Jinhua",
+            "Id": 10108
+          },
+          {
+            "Name": "衢州/Quzhou",
+            "Cn": "衢州",
+            "En": "Quzhou",
+            "Id": 10109
+          },
+          {
+            "Name": "舟山/Zhoushan",
+            "Cn": "舟山",
+            "En": "Zhoushan",
+            "Id": 10110
+          }
+        ],
+        "Name": "浙江/Zhejiang",
+        "Cn": "浙江",
+        "En": "Zhejiang",
+        "Id": 10099
+      },
+      {
+        "Cities": [
+          {
+            "Name": "合肥/Hefei",
+            "Cn": "合肥",
+            "En": "Hefei",
+            "Id": 10112
+          },
+          {
+            "Name": "黄山/Huangshan",
+            "Cn": "黄山",
+            "En": "Huangshan",
+            "Id": 10113
+          },
+          {
+            "Name": "滁州/Chuzhou",
+            "Cn": "滁州",
+            "En": "Chuzhou",
+            "Id": 10114
+          },
+          {
+            "Name": "阜阳/Fuyang",
+            "Cn": "阜阳",
+            "En": "Fuyang",
+            "Id": 10115
+          },
+          {
+            "Name": "宿州/Suzhou",
+            "Cn": "宿州",
+            "En": "Suzhou",
+            "Id": 10116
+          },
+          {
+            "Name": "六安/Lu'an",
+            "Cn": "六安",
+            "En": "Lu'an",
+            "Id": 10117
+          },
+          {
+            "Name": "亳州/Bozhou",
+            "Cn": "亳州",
+            "En": "Bozhou",
+            "Id": 10118
+          },
+          {
+            "Name": "池州/Chizhou",
+            "Cn": "池州",
+            "En": "Chizhou",
+            "Id": 10119
+          },
+          {
+            "Name": "宣城/Xuancheng",
+            "Cn": "宣城",
+            "En": "Xuancheng",
+            "Id": 10120
+          },
+          {
+            "Name": "芜湖/Wuhu",
+            "Cn": "芜湖",
+            "En": "Wuhu",
+            "Id": 10121
+          },
+          {
+            "Name": "蚌埠/Bengbu",
+            "Cn": "蚌埠",
+            "En": "Bengbu",
+            "Id": 10122
+          },
+          {
+            "Name": "淮南/Huainan",
+            "Cn": "淮南",
+            "En": "Huainan",
+            "Id": 10123
+          },
+          {
+            "Name": "马鞍山/Ma'anshan",
+            "Cn": "马鞍山",
+            "En": "Ma'anshan",
+            "Id": 10124
+          },
+          {
+            "Name": "淮北/Huaibei",
+            "Cn": "淮北",
+            "En": "Huaibei",
+            "Id": 10125
+          },
+          {
+            "Name": "铜陵/Tongling",
+            "Cn": "铜陵",
+            "En": "Tongling",
+            "Id": 10126
+          },
+          {
+            "Name": "安庆/Anqing",
+            "Cn": "安庆",
+            "En": "Anqing",
+            "Id": 10127
+          }
+        ],
+        "Name": "安徽/Anhui",
+        "Cn": "安徽",
+        "En": "Anhui",
+        "Id": 10111
+      },
+      {
+        "Cities": [
+          {
+            "Name": "福州/Fuzhou",
+            "Cn": "福州",
+            "En": "Fuzhou",
+            "Id": 10129
+          },
+          {
+            "Name": "厦门/Xiamen",
+            "Cn": "厦门",
+            "En": "Xiamen",
+            "Id": 10130
+          },
+          {
+            "Name": "莆田/Putian",
+            "Cn": "莆田",
+            "En": "Putian",
+            "Id": 10131
+          },
+          {
+            "Name": "三明/Sanming",
+            "Cn": "三明",
+            "En": "Sanming",
+            "Id": 10132
+          },
+          {
+            "Name": "泉州/Quanzhou",
+            "Cn": "泉州",
+            "En": "Quanzhou",
+            "Id": 10133
+          },
+          {
+            "Name": "漳州/Zhangzhou",
+            "Cn": "漳州",
+            "En": "Zhangzhou",
+            "Id": 10134
+          },
+          {
+            "Name": "南平/Nanping",
+            "Cn": "南平",
+            "En": "Nanping",
+            "Id": 10135
+          },
+          {
+            "Name": "龙岩/Longyan",
+            "Cn": "龙岩",
+            "En": "Longyan",
+            "Id": 10136
+          },
+          {
+            "Name": "宁德/Ningde",
+            "Cn": "宁德",
+            "En": "Ningde",
+            "Id": 10137
+          }
+        ],
+        "Name": "福建/Fujian",
+        "Cn": "福建",
+        "En": "Fujian",
+        "Id": 10128
+      },
+      {
+        "Cities": [
+          {
+            "Name": "南昌/Nanchang",
+            "Cn": "南昌",
+            "En": "Nanchang",
+            "Id": 10139
+          },
+          {
+            "Name": "抚州/Fuzhou",
+            "Cn": "抚州",
+            "En": "Fuzhou",
+            "Id": 10140
+          },
+          {
+            "Name": "上饶/Shangrao",
+            "Cn": "上饶",
+            "En": "Shangrao",
+            "Id": 10141
+          },
+          {
+            "Name": "景德镇/Jingdezhen",
+            "Cn": "景德镇",
+            "En": "Jingdezhen",
+            "Id": 10142
+          },
+          {
+            "Name": "萍乡/Pingxiang",
+            "Cn": "萍乡",
+            "En": "Pingxiang",
+            "Id": 10143
+          },
+          {
+            "Name": "九江/Jiujiang",
+            "Cn": "九江",
+            "En": "Jiujiang",
+            "Id": 10144
+          },
+          {
+            "Name": "新余/Xinyu",
+            "Cn": "新余",
+            "En": "Xinyu",
+            "Id": 10145
+          },
+          {
+            "Name": "鹰潭/Yingtan",
+            "Cn": "鹰潭",
+            "En": "Yingtan",
+            "Id": 10146
+          },
+          {
+            "Name": "赣州/Ganzhou",
+            "Cn": "赣州",
+            "En": "Ganzhou",
+            "Id": 10147
+          },
+          {
+            "Name": "吉安/Ji'an",
+            "Cn": "吉安",
+            "En": "Ji'an",
+            "Id": 10148
+          },
+          {
+            "Name": "宜春/Yichun",
+            "Cn": "宜春",
+            "En": "Yichun",
+            "Id": 10149
+          }
+        ],
+        "Name": "江西/Jiangxi",
+        "Cn": "江西",
+        "En": "Jiangxi",
+        "Id": 10138
+      },
+      {
+        "Cities": [
+          {
+            "Name": "济南/Jinan",
+            "Cn": "济南",
+            "En": "Jinan",
+            "Id": 10151
+          },
+          {
+            "Name": "威海/Weihai",
+            "Cn": "威海",
+            "En": "Weihai",
+            "Id": 10152
+          },
+          {
+            "Name": "日照/Rizhao",
+            "Cn": "日照",
+            "En": "Rizhao",
+            "Id": 10153
+          },
+          {
+            "Name": "莱芜/Laiwu",
+            "Cn": "莱芜",
+            "En": "Laiwu",
+            "Id": 10154
+          },
+          {
+            "Name": "临沂/Linyi",
+            "Cn": "临沂",
+            "En": "Linyi",
+            "Id": 10155
+          },
+          {
+            "Name": "德州/Dezhou",
+            "Cn": "德州",
+            "En": "Dezhou",
+            "Id": 10156
+          },
+          {
+            "Name": "聊城/Liaocheng",
+            "Cn": "聊城",
+            "En": "Liaocheng",
+            "Id": 10157
+          },
+          {
+            "Name": "滨州/Binzhou",
+            "Cn": "滨州",
+            "En": "Binzhou",
+            "Id": 10158
+          },
+          {
+            "Name": "菏泽/Heze",
+            "Cn": "菏泽",
+            "En": "Heze",
+            "Id": 10159
+          },
+          {
+            "Name": "青岛/Qingdao",
+            "Cn": "青岛",
+            "En": "Qingdao",
+            "Id": 10160
+          },
+          {
+            "Name": "淄博/Zibo",
+            "Cn": "淄博",
+            "En": "Zibo",
+            "Id": 10161
+          },
+          {
+            "Name": "枣庄/Zaozhuang",
+            "Cn": "枣庄",
+            "En": "Zaozhuang",
+            "Id": 10162
+          },
+          {
+            "Name": "东营/Dongying",
+            "Cn": "东营",
+            "En": "Dongying",
+            "Id": 10163
+          },
+          {
+            "Name": "烟台/Yantai",
+            "Cn": "烟台",
+            "En": "Yantai",
+            "Id": 10164
+          },
+          {
+            "Name": "潍坊/Weifang",
+            "Cn": "潍坊",
+            "En": "Weifang",
+            "Id": 10165
+          },
+          {
+            "Name": "济宁/Jining",
+            "Cn": "济宁",
+            "En": "Jining",
+            "Id": 10166
+          },
+          {
+            "Name": "泰安/Tai'an",
+            "Cn": "泰安",
+            "En": "Tai'an",
+            "Id": 10167
+          }
+        ],
+        "Name": "山东/Shandong",
+        "Cn": "山东",
+        "En": "Shandong",
+        "Id": 10150
+      },
+      {
+        "Cities": [
+          {
+            "Name": "郑州/Zhengzhou",
+            "Cn": "郑州",
+            "En": "Zhengzhou",
+            "Id": 10169
+          },
+          {
+            "Name": "许昌/Xuchang",
+            "Cn": "许昌",
+            "En": "Xuchang",
+            "Id": 10170
+          },
+          {
+            "Name": "漯河/Luohe",
+            "Cn": "漯河",
+            "En": "Luohe",
+            "Id": 10171
+          },
+          {
+            "Name": "三门峡/Sanmenxia",
+            "Cn": "三门峡",
+            "En": "Sanmenxia",
+            "Id": 10172
+          },
+          {
+            "Name": "南阳/Nanyang",
+            "Cn": "南阳",
+            "En": "Nanyang",
+            "Id": 10173
+          },
+          {
+            "Name": "商丘/Shangqiu",
+            "Cn": "商丘",
+            "En": "Shangqiu",
+            "Id": 10174
+          },
+          {
+            "Name": "信阳/Xinyang",
+            "Cn": "信阳",
+            "En": "Xinyang",
+            "Id": 10175
+          },
+          {
+            "Name": "周口/Zhoukou",
+            "Cn": "周口",
+            "En": "Zhoukou",
+            "Id": 10176
+          },
+          {
+            "Name": "驻马店/Zhumadian",
+            "Cn": "驻马店",
+            "En": "Zhumadian",
+            "Id": 10177
+          },
+          {
+            "Name": "济源/Jiyuan",
+            "Cn": "济源",
+            "En": "Jiyuan",
+            "Id": 10178
+          },
+          {
+            "Name": "开封/Kaifeng",
+            "Cn": "开封",
+            "En": "Kaifeng",
+            "Id": 10179
+          },
+          {
+            "Name": "洛阳/Luoyang",
+            "Cn": "洛阳",
+            "En": "Luoyang",
+            "Id": 10180
+          },
+          {
+            "Name": "平顶山/Pingdingshan",
+            "Cn": "平顶山",
+            "En": "Pingdingshan",
+            "Id": 10181
+          },
+          {
+            "Name": "安阳/Anyang",
+            "Cn": "安阳",
+            "En": "Anyang",
+            "Id": 10182
+          },
+          {
+            "Name": "鹤壁/Hebi",
+            "Cn": "鹤壁",
+            "En": "Hebi",
+            "Id": 10183
+          },
+          {
+            "Name": "新乡/Xinxiang",
+            "Cn": "新乡",
+            "En": "Xinxiang",
+            "Id": 10184
+          },
+          {
+            "Name": "焦作/Jiaozuo",
+            "Cn": "焦作",
+            "En": "Jiaozuo",
+            "Id": 10185
+          },
+          {
+            "Name": "濮阳/Puyang",
+            "Cn": "濮阳",
+            "En": "Puyang",
+            "Id": 10186
+          }
+        ],
+        "Name": "河南/Henan",
+        "Cn": "河南",
+        "En": "Henan",
+        "Id": 10168
+      },
+      {
+        "Cities": [
+          {
+            "Name": "武汉/Wuhan",
+            "Cn": "武汉",
+            "En": "Wuhan",
+            "Id": 10188
+          },
+          {
+            "Name": "荆州/Jingzhou",
+            "Cn": "荆州",
+            "En": "Jingzhou",
+            "Id": 10189
+          },
+          {
+            "Name": "黄冈/Huanggang",
+            "Cn": "黄冈",
+            "En": "Huanggang",
+            "Id": 10190
+          },
+          {
+            "Name": "咸宁/Xianning",
+            "Cn": "咸宁",
+            "En": "Xianning",
+            "Id": 10191
+          },
+          {
+            "Name": "随州/Suizhou",
+            "Cn": "随州",
+            "En": "Suizhou",
+            "Id": 10192
+          },
+          {
+            "Name": "黄石/Huangshi",
+            "Cn": "黄石",
+            "En": "Huangshi",
+            "Id": 10193
+          },
+          {
+            "Name": "恩施/Enshi Tujia-Miao Autonomous Prefecture",
+            "Cn": "恩施",
+            "En": "Enshi Tujia-Miao Autonomous Prefecture",
+            "Id": 10194
+          },
+          {
+            "Name": "十堰/Shiyan",
+            "Cn": "十堰",
+            "En": "Shiyan",
+            "Id": 10195
+          },
+          {
+            "Name": "宜昌/Yichang",
+            "Cn": "宜昌",
+            "En": "Yichang",
+            "Id": 10196
+          },
+          {
+            "Name": "襄阳/Xiangyang",
+            "Cn": "襄阳",
+            "En": "Xiangyang",
+            "Id": 10197
+          },
+          {
+            "Name": "鄂州/Ezhou",
+            "Cn": "鄂州",
+            "En": "Ezhou",
+            "Id": 10198
+          },
+          {
+            "Name": "荆门/Jingmen",
+            "Cn": "荆门",
+            "En": "Jingmen",
+            "Id": 10199
+          },
+          {
+            "Name": "孝感/Xiaogan",
+            "Cn": "孝感",
+            "En": "Xiaogan",
+            "Id": 10200
+          },
+          {
+            "Name": "仙桃/Xiantao",
+            "Cn": "仙桃",
+            "En": "Xiantao",
+            "Id": 10201
+          },
+          {
+            "Name": "潜江/Qianjiang",
+            "Cn": "潜江",
+            "En": "Qianjiang",
+            "Id": 10202
+          },
+          {
+            "Name": "天门/Tianmen",
+            "Cn": "天门",
+            "En": "Tianmen",
+            "Id": 10203
+          },
+          {
+            "Name": "神农架/Shennongjia",
+            "Cn": "神农架",
+            "En": "Shennongjia",
+            "Id": 10204
+          }
+        ],
+        "Name": "湖北/Hubei",
+        "Cn": "湖北",
+        "En": "Hubei",
+        "Id": 10187
+      },
+      {
+        "Cities": [
+          {
+            "Name": "长沙/Changsha",
+            "Cn": "长沙",
+            "En": "Changsha",
+            "Id": 10206
+          },
+          {
+            "Name": "郴州/Chenzhou",
+            "Cn": "郴州",
+            "En": "Chenzhou",
+            "Id": 10207
+          },
+          {
+            "Name": "永州/Yongzhou",
+            "Cn": "永州",
+            "En": "Yongzhou",
+            "Id": 10208
+          },
+          {
+            "Name": "怀化/Huaihua",
+            "Cn": "怀化",
+            "En": "Huaihua",
+            "Id": 10209
+          },
+          {
+            "Name": "娄底/Loudi",
+            "Cn": "娄底",
+            "En": "Loudi",
+            "Id": 10210
+          },
+          {
+            "Name": "株洲/Zhuzhou",
+            "Cn": "株洲",
+            "En": "Zhuzhou",
+            "Id": 10211
+          },
+          {
+            "Name": "湘潭/Xiangtan",
+            "Cn": "湘潭",
+            "En": "Xiangtan",
+            "Id": 10212
+          },
+          {
+            "Name": "湘西/Xiangxi Tujia-Miao Autonomous Prefecture",
+            "Cn": "湘西",
+            "En": "Xiangxi Tujia-Miao Autonomous Prefecture",
+            "Id": 10213
+          },
+          {
+            "Name": "衡阳/Hengyang",
+            "Cn": "衡阳",
+            "En": "Hengyang",
+            "Id": 10214
+          },
+          {
+            "Name": "邵阳/Shaoyang",
+            "Cn": "邵阳",
+            "En": "Shaoyang",
+            "Id": 10215
+          },
+          {
+            "Name": "岳阳/Yueyang",
+            "Cn": "岳阳",
+            "En": "Yueyang",
+            "Id": 10216
+          },
+          {
+            "Name": "常德/Changde",
+            "Cn": "常德",
+            "En": "Changde",
+            "Id": 10217
+          },
+          {
+            "Name": "张家界/Zhangjiajie",
+            "Cn": "张家界",
+            "En": "Zhangjiajie",
+            "Id": 10218
+          },
+          {
+            "Name": "益阳/Yiyang",
+            "Cn": "益阳",
+            "En": "Yiyang",
+            "Id": 10219
+          }
+        ],
+        "Name": "湖南/Hunan",
+        "Cn": "湖南",
+        "En": "Hunan",
+        "Id": 10205
+      },
+      {
+        "Cities": [
+          {
+            "Name": "广州/Guangzhou",
+            "Cn": "广州",
+            "En": "Guangzhou",
+            "Id": 10221
+          },
+          {
+            "Name": "肇庆/Zhaoqing",
+            "Cn": "肇庆",
+            "En": "Zhaoqing",
+            "Id": 10222
+          },
+          {
+            "Name": "惠州/Huizhou",
+            "Cn": "惠州",
+            "En": "Huizhou",
+            "Id": 10223
+          },
+          {
+            "Name": "梅州/Meizhou",
+            "Cn": "梅州",
+            "En": "Meizhou",
+            "Id": 10224
+          },
+          {
+            "Name": "汕尾/Shanwei",
+            "Cn": "汕尾",
+            "En": "Shanwei",
+            "Id": 10225
+          },
+          {
+            "Name": "河源/Heyuan",
+            "Cn": "河源",
+            "En": "Heyuan",
+            "Id": 10226
+          },
+          {
+            "Name": "阳江/Yangjiang",
+            "Cn": "阳江",
+            "En": "Yangjiang",
+            "Id": 10227
+          },
+          {
+            "Name": "清远/Qingyuan",
+            "Cn": "清远",
+            "En": "Qingyuan",
+            "Id": 10228
+          },
+          {
+            "Name": "东莞/Dongguan",
+            "Cn": "东莞",
+            "En": "Dongguan",
+            "Id": 10229
+          },
+          {
+            "Name": "韶关/Shaoguan",
+            "Cn": "韶关",
+            "En": "Shaoguan",
+            "Id": 10230
+          },
+          {
+            "Name": "中山/Zhongshan",
+            "Cn": "中山",
+            "En": "Zhongshan",
+            "Id": 10231
+          },
+          {
+            "Name": "深圳/Shenzhen",
+            "Cn": "深圳",
+            "En": "Shenzhen",
+            "Id": 10232
+          },
+          {
+            "Name": "珠海/Zhuhai",
+            "Cn": "珠海",
+            "En": "Zhuhai",
+            "Id": 10233
+          },
+          {
+            "Name": "汕头/Shantou",
+            "Cn": "汕头",
+            "En": "Shantou",
+            "Id": 10234
+          },
+          {
+            "Name": "潮州/Chaozhou",
+            "Cn": "潮州",
+            "En": "Chaozhou",
+            "Id": 10235
+          },
+          {
+            "Name": "揭阳/Jieyang",
+            "Cn": "揭阳",
+            "En": "Jieyang",
+            "Id": 10236
+          },
+          {
+            "Name": "云浮/Yunfu",
+            "Cn": "云浮",
+            "En": "Yunfu",
+            "Id": 10237
+          },
+          {
+            "Name": "佛山/Foshan",
+            "Cn": "佛山",
+            "En": "Foshan",
+            "Id": 10238
+          },
+          {
+            "Name": "江门/Jiangmen",
+            "Cn": "江门",
+            "En": "Jiangmen",
+            "Id": 10239
+          },
+          {
+            "Name": "湛江/Zhanjiang",
+            "Cn": "湛江",
+            "En": "Zhanjiang",
+            "Id": 10240
+          },
+          {
+            "Name": "茂名/Maoming",
+            "Cn": "茂名",
+            "En": "Maoming",
+            "Id": 10241
+          }
+        ],
+        "Name": "广东/Guangdong",
+        "Cn": "广东",
+        "En": "Guangdong",
+        "Id": 10220
+      },
+      {
+        "Cities": [
+          {
+            "Name": "南宁/Nanning",
+            "Cn": "南宁",
+            "En": "Nanning",
+            "Id": 10243
+          },
+          {
+            "Name": "百色/Baise",
+            "Cn": "百色",
+            "En": "Baise",
+            "Id": 10244
+          },
+          {
+            "Name": "贺州/Hezhou",
+            "Cn": "贺州",
+            "En": "Hezhou",
+            "Id": 10245
+          },
+          {
+            "Name": "河池/Hechi",
+            "Cn": "河池",
+            "En": "Hechi",
+            "Id": 10246
+          },
+          {
+            "Name": "来宾/Laibin",
+            "Cn": "来宾",
+            "En": "Laibin",
+            "Id": 10247
+          },
+          {
+            "Name": "崇左/Chongzuo",
+            "Cn": "崇左",
+            "En": "Chongzuo",
+            "Id": 10248
+          },
+          {
+            "Name": "柳州/Liuzhou",
+            "Cn": "柳州",
+            "En": "Liuzhou",
+            "Id": 10249
+          },
+          {
+            "Name": "桂林/Guilin",
+            "Cn": "桂林",
+            "En": "Guilin",
+            "Id": 10250
+          },
+          {
+            "Name": "梧州/Wuzhou",
+            "Cn": "梧州",
+            "En": "Wuzhou",
+            "Id": 10251
+          },
+          {
+            "Name": "北海/Beihai",
+            "Cn": "北海",
+            "En": "Beihai",
+            "Id": 10252
+          },
+          {
+            "Name": "防城港/Fangchenggang",
+            "Cn": "防城港",
+            "En": "Fangchenggang",
+            "Id": 10253
+          },
+          {
+            "Name": "钦州/Qinzhou",
+            "Cn": "钦州",
+            "En": "Qinzhou",
+            "Id": 10254
+          },
+          {
+            "Name": "贵港/Guigang",
+            "Cn": "贵港",
+            "En": "Guigang",
+            "Id": 10255
+          },
+          {
+            "Name": "玉林/Yulin",
+            "Cn": "玉林",
+            "En": "Yulin",
+            "Id": 10256
+          }
+        ],
+        "Name": "广西/Guangxi",
+        "Cn": "广西",
+        "En": "Guangxi",
+        "Id": 10242
+      },
+      {
+        "Cities": [
+          {
+            "Name": "海口/Haikou",
+            "Cn": "海口",
+            "En": "Haikou",
+            "Id": 10258
+          },
+          {
+            "Name": "三亚/Sanya",
+            "Cn": "三亚",
+            "En": "Sanya",
+            "Id": 10259
+          },
+          {
+            "Name": "三沙/Shansha",
+            "Cn": "三沙",
+            "En": "Shansha",
+            "Id": 10260
+          },
+          {
+            "Name": "五指山/Wuzhishan",
+            "Cn": "五指山",
+            "En": "Wuzhishan",
+            "Id": 10261
+          },
+          {
+            "Name": "琼海/Qionghai",
+            "Cn": "琼海",
+            "En": "Qionghai",
+            "Id": 10262
+          },
+          {
+            "Name": "儋州/Danzhou",
+            "Cn": "儋州",
+            "En": "Danzhou",
+            "Id": 10263
+          },
+          {
+            "Name": "文昌/Wenchang",
+            "Cn": "文昌",
+            "En": "Wenchang",
+            "Id": 10264
+          },
+          {
+            "Name": "万宁/Wanning",
+            "Cn": "万宁",
+            "En": "Wanning",
+            "Id": 10265
+          },
+          {
+            "Name": "东方/Dongfang",
+            "Cn": "东方",
+            "En": "Dongfang",
+            "Id": 10266
+          },
+          {
+            "Name": "定安/Ding'an",
+            "Cn": "定安",
+            "En": "Ding'an",
+            "Id": 10267
+          },
+          {
+            "Name": "屯昌/Tunchang",
+            "Cn": "屯昌",
+            "En": "Tunchang",
+            "Id": 10268
+          },
+          {
+            "Name": "澄迈/Cengmai",
+            "Cn": "澄迈",
+            "En": "Cengmai",
+            "Id": 10269
+          },
+          {
+            "Name": "临高/Lingao",
+            "Cn": "临高",
+            "En": "Lingao",
+            "Id": 10270
+          },
+          {
+            "Name": "白沙/Baisha Li Autonomous County",
+            "Cn": "白沙",
+            "En": "Baisha Li Autonomous County",
+            "Id": 10271
+          },
+          {
+            "Name": "昌江/Jiang Li Autonomous County",
+            "Cn": "昌江",
+            "En": "Jiang Li Autonomous County",
+            "Id": 10272
+          },
+          {
+            "Name": "乐东/Ledong Li Autonomous County",
+            "Cn": "乐东",
+            "En": "Ledong Li Autonomous County",
+            "Id": 10273
+          },
+          {
+            "Name": "陵水/Lingshui Li Autonomous County",
+            "Cn": "陵水",
+            "En": "Lingshui Li Autonomous County",
+            "Id": 10274
+          },
+          {
+            "Name": "保亭/Baoting Li-Miao Autonomous County",
+            "Cn": "保亭",
+            "En": "Baoting Li-Miao Autonomous County",
+            "Id": 10275
+          },
+          {
+            "Name": "琼中/Qiongzhong Li-Miao Autonomous County",
+            "Cn": "琼中",
+            "En": "Qiongzhong Li-Miao Autonomous County",
+            "Id": 10276
+          }
+        ],
+        "Name": "海南/Hainan",
+        "Cn": "海南",
+        "En": "Hainan",
+        "Id": 10257
+      },
+      {
+        "Cities": [
+          {
+            "Name": "成都/Chengdu",
+            "Cn": "成都",
+            "En": "Chengdu",
+            "Id": 10278
+          },
+          {
+            "Name": "内江/Neijiang",
+            "Cn": "内江",
+            "En": "Neijiang",
+            "Id": 10279
+          },
+          {
+            "Name": "乐山/Leshan",
+            "Cn": "乐山",
+            "En": "Leshan",
+            "Id": 10280
+          },
+          {
+            "Name": "南充/Nanchong",
+            "Cn": "南充",
+            "En": "Nanchong",
+            "Id": 10281
+          },
+          {
+            "Name": "眉山/Meishan",
+            "Cn": "眉山",
+            "En": "Meishan",
+            "Id": 10282
+          },
+          {
+            "Name": "宜宾/Yibin",
+            "Cn": "宜宾",
+            "En": "Yibin",
+            "Id": 10283
+          },
+          {
+            "Name": "广安/Guang'an",
+            "Cn": "广安",
+            "En": "Guang'an",
+            "Id": 10284
+          },
+          {
+            "Name": "达州/Dazhou",
+            "Cn": "达州",
+            "En": "Dazhou",
+            "Id": 10285
+          },
+          {
+            "Name": "雅安/Ya'an",
+            "Cn": "雅安",
+            "En": "Ya'an",
+            "Id": 10286
+          },
+          {
+            "Name": "巴中/Bazhong",
+            "Cn": "巴中",
+            "En": "Bazhong",
+            "Id": 10287
+          },
+          {
+            "Name": "资阳/Ziyang",
+            "Cn": "资阳",
+            "En": "Ziyang",
+            "Id": 10288
+          },
+          {
+            "Name": "自贡/Zigong",
+            "Cn": "自贡",
+            "En": "Zigong",
+            "Id": 10289
+          },
+          {
+            "Name": "阿坝/Aba Tibetan-Qiang Autonomous Prefecture",
+            "Cn": "阿坝",
+            "En": "Aba Tibetan-Qiang Autonomous Prefecture",
+            "Id": 10290
+          },
+          {
+            "Name": "甘孜/Garze Tibetan Autonomous Prefecture",
+            "Cn": "甘孜",
+            "En": "Garze Tibetan Autonomous Prefecture",
+            "Id": 10291
+          },
+          {
+            "Name": "凉山/Liangshan Yi Autonomous Prefecture",
+            "Cn": "凉山",
+            "En": "Liangshan Yi Autonomous Prefecture",
+            "Id": 10292
+          },
+          {
+            "Name": "攀枝花/Panzhihua",
+            "Cn": "攀枝花",
+            "En": "Panzhihua",
+            "Id": 10293
+          },
+          {
+            "Name": "泸州/Luzhou",
+            "Cn": "泸州",
+            "En": "Luzhou",
+            "Id": 10294
+          },
+          {
+            "Name": "德阳/Deyang",
+            "Cn": "德阳",
+            "En": "Deyang",
+            "Id": 10295
+          },
+          {
+            "Name": "绵阳/Mianyang",
+            "Cn": "绵阳",
+            "En": "Mianyang",
+            "Id": 10296
+          },
+          {
+            "Name": "广元/Guangyuan",
+            "Cn": "广元",
+            "En": "Guangyuan",
+            "Id": 10297
+          },
+          {
+            "Name": "遂宁/Suining",
+            "Cn": "遂宁",
+            "En": "Suining",
+            "Id": 10298
+          }
+        ],
+        "Name": "四川/Sichuan",
+        "Cn": "四川",
+        "En": "Sichuan",
+        "Id": 10277
+      },
+      {
+        "Cities": [
+          {
+            "Name": "贵阳/Guiyang",
+            "Cn": "贵阳",
+            "En": "Guiyang",
+            "Id": 10300
+          },
+          {
+            "Name": "六盘水/Liupanshui",
+            "Cn": "六盘水",
+            "En": "Liupanshui",
+            "Id": 10301
+          },
+          {
+            "Name": "铜仁/Tongren",
+            "Cn": "铜仁",
+            "En": "Tongren",
+            "Id": 10302
+          },
+          {
+            "Name": "黔西南/Qianxinan Buyi-Miao Autonomous Prefecture",
+            "Cn": "黔西南",
+            "En": "Qianxinan Buyi-Miao Autonomous Prefecture",
+            "Id": 10303
+          },
+          {
+            "Name": "毕节/Bijie",
+            "Cn": "毕节",
+            "En": "Bijie",
+            "Id": 10304
+          },
+          {
+            "Name": "黔东南/Qiandongnan Miao-Dong Autonomous Prefecture",
+            "Cn": "黔东南",
+            "En": "Qiandongnan Miao-Dong Autonomous Prefecture",
+            "Id": 10305
+          },
+          {
+            "Name": "黔南/Qiannan Buyi Autonomous Prefecture",
+            "Cn": "黔南",
+            "En": "Qiannan Buyi Autonomous Prefecture",
+            "Id": 10306
+          },
+          {
+            "Name": "遵义/Zunyi",
+            "Cn": "遵义",
+            "En": "Zunyi",
+            "Id": 10307
+          },
+          {
+            "Name": "安顺/Anshun",
+            "Cn": "安顺",
+            "En": "Anshun",
+            "Id": 10308
+          }
+        ],
+        "Name": "贵州/Guizhou",
+        "Cn": "贵州",
+        "En": "Guizhou",
+        "Id": 10299
+      },
+      {
+        "Cities": [
+          {
+            "Name": "昆明/Kunming",
+            "Cn": "昆明",
+            "En": "Kunming",
+            "Id": 10310
+          },
+          {
+            "Name": "楚雄/Chuxiong Yi Autonomous Prefecture",
+            "Cn": "楚雄",
+            "En": "Chuxiong Yi Autonomous Prefecture",
+            "Id": 10311
+          },
+          {
+            "Name": "红河/Honghe Hani-Yi Autonomous Prefecture",
+            "Cn": "红河",
+            "En": "Honghe Hani-Yi Autonomous Prefecture",
+            "Id": 10312
+          },
+          {
+            "Name": "文山/Wenshan Zhuang-Miao Autonomous Prefecture",
+            "Cn": "文山",
+            "En": "Wenshan Zhuang-Miao Autonomous Prefecture",
+            "Id": 10313
+          },
+          {
+            "Name": "西双版纳/Xishuangbanna Dai Autonomous Prefecture",
+            "Cn": "西双版纳",
+            "En": "Xishuangbanna Dai Autonomous Prefecture",
+            "Id": 10314
+          },
+          {
+            "Name": "大理/Dali Bai Autonomous Prefecture",
+            "Cn": "大理",
+            "En": "Dali Bai Autonomous Prefecture",
+            "Id": 10315
+          },
+          {
+            "Name": "曲靖/Qujing",
+            "Cn": "曲靖",
+            "En": "Qujing",
+            "Id": 10316
+          },
+          {
+            "Name": "德宏/Dehong Dai-Jingpo Autonomous Prefecture",
+            "Cn": "德宏",
+            "En": "Dehong Dai-Jingpo Autonomous Prefecture",
+            "Id": 10317
+          },
+          {
+            "Name": "怒江/Nujiang Lisu Autonomous Prefecture",
+            "Cn": "怒江",
+            "En": "Nujiang Lisu Autonomous Prefecture",
+            "Id": 10318
+          },
+          {
+            "Name": "迪庆/Diqing Tibetan Autonomous Prefecture",
+            "Cn": "迪庆",
+            "En": "Diqing Tibetan Autonomous Prefecture",
+            "Id": 10319
+          },
+          {
+            "Name": "玉溪/Yuxi",
+            "Cn": "玉溪",
+            "En": "Yuxi",
+            "Id": 10320
+          },
+          {
+            "Name": "保山/Baoshan",
+            "Cn": "保山",
+            "En": "Baoshan",
+            "Id": 10321
+          },
+          {
+            "Name": "昭通/Zhaotong",
+            "Cn": "昭通",
+            "En": "Zhaotong",
+            "Id": 10322
+          },
+          {
+            "Name": "丽江/Lijiang",
+            "Cn": "丽江",
+            "En": "Lijiang",
+            "Id": 10323
+          },
+          {
+            "Name": "普洱/Pu'er",
+            "Cn": "普洱",
+            "En": "Pu'er",
+            "Id": 10324
+          },
+          {
+            "Name": "临沧/Lincang",
+            "Cn": "临沧",
+            "En": "Lincang",
+            "Id": 10325
+          }
+        ],
+        "Name": "云南/Yunnan",
+        "Cn": "云南",
+        "En": "Yunnan",
+        "Id": 10309
+      },
+      {
+        "Cities": [
+          {
+            "Name": "拉萨/Lhasa",
+            "Cn": "拉萨",
+            "En": "Lhasa",
+            "Id": 10327
+          },
+          {
+            "Name": "昌都/Qamdo",
+            "Cn": "昌都",
+            "En": "Qamdo",
+            "Id": 10328
+          },
+          {
+            "Name": "山南/Shannan",
+            "Cn": "山南",
+            "En": "Shannan",
+            "Id": 10329
+          },
+          {
+            "Name": "日喀则/Xigaze",
+            "Cn": "日喀则",
+            "En": "Xigaze",
+            "Id": 10330
+          },
+          {
+            "Name": "那曲/Nagqu",
+            "Cn": "那曲",
+            "En": "Nagqu",
+            "Id": 10331
+          },
+          {
+            "Name": "阿里/Ngari",
+            "Cn": "阿里",
+            "En": "Ngari",
+            "Id": 10332
+          },
+          {
+            "Name": "林芝/Nyingchi",
+            "Cn": "林芝",
+            "En": "Nyingchi",
+            "Id": 10333
+          }
+        ],
+        "Name": "西藏/Tibet",
+        "Cn": "西藏",
+        "En": "Tibet",
+        "Id": 10326
+      },
+      {
+        "Cities": [
+          {
+            "Name": "西安/Xi'an",
+            "Cn": "西安",
+            "En": "Xi'an",
+            "Id": 10335
+          },
+          {
+            "Name": "商洛/Shangluo",
+            "Cn": "商洛",
+            "En": "Shangluo",
+            "Id": 10336
+          },
+          {
+            "Name": "铜川/Tongchuan",
+            "Cn": "铜川",
+            "En": "Tongchuan",
+            "Id": 10337
+          },
+          {
+            "Name": "宝鸡/Baoji",
+            "Cn": "宝鸡",
+            "En": "Baoji",
+            "Id": 10338
+          },
+          {
+            "Name": "咸阳/Xianyang",
+            "Cn": "咸阳",
+            "En": "Xianyang",
+            "Id": 10339
+          },
+          {
+            "Name": "渭南/Weinan",
+            "Cn": "渭南",
+            "En": "Weinan",
+            "Id": 10340
+          },
+          {
+            "Name": "延安/Yan'an",
+            "Cn": "延安",
+            "En": "Yan'an",
+            "Id": 10341
+          },
+          {
+            "Name": "汉中/Hanzhong",
+            "Cn": "汉中",
+            "En": "Hanzhong",
+            "Id": 10342
+          },
+          {
+            "Name": "榆林/Yulin",
+            "Cn": "榆林",
+            "En": "Yulin",
+            "Id": 10343
+          },
+          {
+            "Name": "安康/Ankang",
+            "Cn": "安康",
+            "En": "Ankang",
+            "Id": 10344
+          }
+        ],
+        "Name": "陕西/Shaanxi",
+        "Cn": "陕西",
+        "En": "Shaanxi",
+        "Id": 10334
+      },
+      {
+        "Cities": [
+          {
+            "Name": "兰州市/Lanzhou",
+            "Cn": "兰州市",
+            "En": "Lanzhou",
+            "Id": 10346
+          },
+          {
+            "Name": "庆阳/Qingyang",
+            "Cn": "庆阳",
+            "En": "Qingyang",
+            "Id": 10347
+          },
+          {
+            "Name": "定西/Dingxi",
+            "Cn": "定西",
+            "En": "Dingxi",
+            "Id": 10348
+          },
+          {
+            "Name": "陇南/Longnan",
+            "Cn": "陇南",
+            "En": "Longnan",
+            "Id": 10349
+          },
+          {
+            "Name": "嘉峪关/Jinchang",
+            "Cn": "嘉峪关",
+            "En": "Jinchang",
+            "Id": 10350
+          },
+          {
+            "Name": "临夏/Linxia Hui Autonomous Prefecture",
+            "Cn": "临夏",
+            "En": "Linxia Hui Autonomous Prefecture",
+            "Id": 10351
+          },
+          {
+            "Name": "金昌/Baiyin",
+            "Cn": "金昌",
+            "En": "Baiyin",
+            "Id": 10352
+          },
+          {
+            "Name": "甘南/Gannan Tibetan Autonomous Prefecture",
+            "Cn": "甘南",
+            "En": "Gannan Tibetan Autonomous Prefecture",
+            "Id": 10353
+          },
+          {
+            "Name": "白银/Tianshui",
+            "Cn": "白银",
+            "En": "Tianshui",
+            "Id": 10354
+          },
+          {
+            "Name": "天水/Jiayuguan",
+            "Cn": "天水",
+            "En": "Jiayuguan",
+            "Id": 10355
+          },
+          {
+            "Name": "武威/Wuwei",
+            "Cn": "武威",
+            "En": "Wuwei",
+            "Id": 10356
+          },
+          {
+            "Name": "张掖/Zhangye",
+            "Cn": "张掖",
+            "En": "Zhangye",
+            "Id": 10357
+          },
+          {
+            "Name": "平凉/Pingliang",
+            "Cn": "平凉",
+            "En": "Pingliang",
+            "Id": 10358
+          },
+          {
+            "Name": "酒泉/Jiuquan",
+            "Cn": "酒泉",
+            "En": "Jiuquan",
+            "Id": 10359
+          }
+        ],
+        "Name": "甘肃/Gansu",
+        "Cn": "甘肃",
+        "En": "Gansu",
+        "Id": 10345
+      },
+      {
+        "Cities": [
+          {
+            "Name": "西宁/Xining",
+            "Cn": "西宁",
+            "En": "Xining",
+            "Id": 10361
+          },
+          {
+            "Name": "海东/Haidong",
+            "Cn": "海东",
+            "En": "Haidong",
+            "Id": 10362
+          },
+          {
+            "Name": "海北/Haibei Tibetan Autonomous Prefecture",
+            "Cn": "海北",
+            "En": "Haibei Tibetan Autonomous Prefecture",
+            "Id": 10363
+          },
+          {
+            "Name": "黄南/Huangnan Tibetan Autonomous Prefecture",
+            "Cn": "黄南",
+            "En": "Huangnan Tibetan Autonomous Prefecture",
+            "Id": 10364
+          },
+          {
+            "Name": "海南/Hainan Tibetan Autonomous Prefecture",
+            "Cn": "海南",
+            "En": "Hainan Tibetan Autonomous Prefecture",
+            "Id": 10365
+          },
+          {
+            "Name": "果洛/Guoluo Tibetan Autonomous Prefecture",
+            "Cn": "果洛",
+            "En": "Guoluo Tibetan Autonomous Prefecture",
+            "Id": 10366
+          },
+          {
+            "Name": "玉树/Yushu Tibetan Autonomous Prefecture",
+            "Cn": "玉树",
+            "En": "Yushu Tibetan Autonomous Prefecture",
+            "Id": 10367
+          },
+          {
+            "Name": "海西/Haixi Mongol-Tibetan Autonomous Prefecture",
+            "Cn": "海西",
+            "En": "Haixi Mongol-Tibetan Autonomous Prefecture",
+            "Id": 10368
+          }
+        ],
+        "Name": "青海/Qinghai",
+        "Cn": "青海",
+        "En": "Qinghai",
+        "Id": 10360
+      },
+      {
+        "Cities": [
+          {
+            "Name": "银川/Yinchuan",
+            "Cn": "银川",
+            "En": "Yinchuan",
+            "Id": 10370
+          },
+          {
+            "Name": "石嘴山/Shizuishan",
+            "Cn": "石嘴山",
+            "En": "Shizuishan",
+            "Id": 10371
+          },
+          {
+            "Name": "吴忠/Wuzhong",
+            "Cn": "吴忠",
+            "En": "Wuzhong",
+            "Id": 10372
+          },
+          {
+            "Name": "固原/Guyuan",
+            "Cn": "固原",
+            "En": "Guyuan",
+            "Id": 10373
+          },
+          {
+            "Name": "中卫/Zhongwei",
+            "Cn": "中卫",
+            "En": "Zhongwei",
+            "Id": 10374
+          }
+        ],
+        "Name": "宁夏/Ningxia",
+        "Cn": "宁夏",
+        "En": "Ningxia",
+        "Id": 10369
+      },
+      {
+        "Cities": [
+          {
+            "Name": "乌鲁木齐/Urumqi",
+            "Cn": "乌鲁木齐",
+            "En": "Urumqi",
+            "Id": 10376
+          },
+          {
+            "Name": "克拉玛依/Karamay",
+            "Cn": "克拉玛依",
+            "En": "Karamay",
+            "Id": 10377
+          },
+          {
+            "Name": "吐鲁番/Turpan",
+            "Cn": "吐鲁番",
+            "En": "Turpan",
+            "Id": 10378
+          },
+          {
+            "Name": "哈密/Hami",
+            "Cn": "哈密",
+            "En": "Hami",
+            "Id": 10379
+          },
+          {
+            "Name": "昌吉/Changji Hui Autonomous Prefecture",
+            "Cn": "昌吉",
+            "En": "Changji Hui Autonomous Prefecture",
+            "Id": 10380
+          },
+          {
+            "Name": "博尔塔拉/Bortala Mongol Autonomous Prefecture",
+            "Cn": "博尔塔拉",
+            "En": "Bortala Mongol Autonomous Prefecture",
+            "Id": 10381
+          },
+          {
+            "Name": "巴音郭楞/Bayingolin Mongol Autonomous Prefecture",
+            "Cn": "巴音郭楞",
+            "En": "Bayingolin Mongol Autonomous Prefecture",
+            "Id": 10382
+          },
+          {
+            "Name": "阿克苏/Aksu",
+            "Cn": "阿克苏",
+            "En": "Aksu",
+            "Id": 10383
+          },
+          {
+            "Name": "克孜勒苏/Kizilsu Kirgiz Autonomous Prefecture",
+            "Cn": "克孜勒苏",
+            "En": "Kizilsu Kirgiz Autonomous Prefecture",
+            "Id": 10384
+          },
+          {
+            "Name": "喀什/Kashi",
+            "Cn": "喀什",
+            "En": "Kashi",
+            "Id": 10385
+          },
+          {
+            "Name": "和田/Hotan",
+            "Cn": "和田",
+            "En": "Hotan",
+            "Id": 10386
+          },
+          {
+            "Name": "伊犁/Ili Kazakh Autonomous Prefecture",
+            "Cn": "伊犁",
+            "En": "Ili Kazakh Autonomous Prefecture",
+            "Id": 10387
+          },
+          {
+            "Name": "塔城/Tacheng",
+            "Cn": "塔城",
+            "En": "Tacheng",
+            "Id": 10388
+          },
+          {
+            "Name": "阿勒泰/Altay",
+            "Cn": "阿勒泰",
+            "En": "Altay",
+            "Id": 10389
+          },
+          {
+            "Name": "石河子/Shihezi",
+            "Cn": "石河子",
+            "En": "Shihezi",
+            "Id": 10390
+          },
+          {
+            "Name": "阿拉尔/Alar",
+            "Cn": "阿拉尔",
+            "En": "Alar",
+            "Id": 10391
+          },
+          {
+            "Name": "图木舒克/Tumsuk",
+            "Cn": "图木舒克",
+            "En": "Tumsuk",
+            "Id": 10392
+          },
+          {
+            "Name": "五家渠/Wujiaqu",
+            "Cn": "五家渠",
+            "En": "Wujiaqu",
+            "Id": 10393
+          },
+          {
+            "Name": "北屯/Beitun",
+            "Cn": "北屯",
+            "En": "Beitun",
+            "Id": 10394
+          }
+        ],
+        "Name": "新疆/Xinjiang",
+        "Cn": "新疆",
+        "En": "Xinjiang",
+        "Id": 10375
+      }
+    ],
+    "Code": "CHN",
+    "TelPrefix": "86",
+    "Name": "中国/China",
+    "Cn": "中国",
+    "En": "China",
+    "Id": 10000,
+    "FirstEn": "Z"
+  }
+]

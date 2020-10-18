@@ -1,0 +1,404 @@
+.icon-font{
+	width: 14px;
+	height: 14px;
+}
+.height-page{
+	position: relative;
+	height: 100%;
+}
+.fly-primary-color{
+	color: #6B9EE2;
+}
+.fly-primary-bg{
+	background-color: #6B9EE2;
+}
+.fly-success-color{
+	color: #67C23A;
+}
+.fly-success-bg{
+	background-color: #67C23A;
+}
+.fly-info-color{
+	color: #4D505E;
+}
+.fly-info-bg{
+	background-color: #4D505E;
+}
+.fly-warning-color{
+	color: #E6A23C;
+}
+.fly-warning-bg{
+	background-color: #E6A23C;
+}
+.fly-danger-color{
+	color: #EB6D6D;
+}
+.fly-danger-bg{
+	background-color: #EB6D6D;
+}
+.scroll-bar{
+	height: 100%;
+}
+.nav-scroll-bar{
+	/* height: 100%; */
+	background: #F7F7F7;
+}
+/* 所有router-view页面共有padding */
+.page-content{
+	padding-top: 81px;
+	padding-right: 38px;
+}
+.page-content-db{
+	padding-top: 136px;
+	padding-right: 38px;
+}
+/* sideBar固定与非固定时的样式 */
+.page-component-content{
+	margin-left: 200px;
+}
+.hove-side-bar-content{
+	margin-left: 64px;
+}
+.hove-side-bar:hover + .hove-side-bar-content{
+	margin-left: 225px;
+}
+/* .hove-side-bar:hover + .photo-management .hove-side-content{
+	margin-left: 201px;
+} */
+.hove-side-bar:hover + .photo-management .hove-side-list {
+	margin-left: 200px;
+}
+/* 通用form页 */
+/* 如果你的页面是一个form页面, 则需要在页面顶层容器添加该类名 */
+.form-page {
+	margin-bottom: 100px;
+}
+/* 通用table页 */
+.table-page {
+	margin-bottom: 100px;
+}
+/* table中的图标的右边距 */
+.table-icon {
+	margin-right: 10px;
+}
+/* 一栏topBar布局 */
+.top-bar-content{
+	padding: 86px 38px 0 38px;
+}
+
+/* 两栏topBar布局 */
+.two-bar-content {
+	padding: 143px 38px 0 38px;
+}
+
+/* 三栏content,两栏topBar布局 */
+.two-bar-three-content {
+	padding: 110px 38px 0 0px;
+}
+/* 三栏content,一topBar布局 */
+.top-bar-three-content {
+	padding: 81px 38px 0 0px;
+}
+/* 实现表单布局的可选容器: 主要用于实现提交按钮始终位于页面的最底部这个效果 */
+/* 设置最小高度100%. 用于实现"提交按钮位于页面底部"这个效果
+该容器应该作为除主div外, 最外层的元素. 换句话说: 第二外层的元素
+该容器应该是"最后一行提交按钮"的参照容器
+该容器的父元素应该有高度, 因为该容器最小高度是父元素的100%高度, 如果没有高度, 则该容器的最小高度设置也会失效 */
+/* 举例 */
+.common-100-min-height {
+  position: relative;
+  min-height: 100%;
+	padding-bottom: 100px;
+	box-sizing: border-box;
+}
+/* 底部提交按钮容器 */
+/* 举例: <div class="common-submit-container"> <button>取消</button> <button>确认</button> </div> */
+.common-submit-container {
+  position: absolute;
+  bottom: 40px;
+  right: 20px;
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+.common-submit-container .confirm {
+  font-size: 13px;
+  margin-left: 0;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.common-submit-container .el-form-item {
+  margin-bottom: 0;
+}
+
+/* 筛选栏样式 */
+/* #app不要去掉, 用于增加选择器优先级 */
+/* 举例: 
+<el-button :class="{'common-filter': true, 'is-active': filterNum }">
+	筛选 <el-badge v-show="filterNum" :value="filterNum"></el-badge>
+</el-button> 
+*/
+#app .common-filter {
+	padding: 0;
+	flex-shrink: 0;
+}
+#app .common-filter span {
+	display: flex;
+	align-items: center;
+	padding: 0 12px;
+}
+#app .common-filter .el-badge {
+	margin-right: 0px;
+	margin-left: 3px;
+}
+#app .common-filter .el-badge sup {
+	transform: scale(0.8);
+}
+#app .common-filter.is-active {
+	border-color: #4D505E;
+}
+
+/* 重置element样式 */
+/* 重置分页样式 */
+.el-pagination .el-pager .number {
+	background: #fff!important;
+	border-radius:2px;
+	border:1px solid rgba(232,232,232,1);
+	font-size: 12px;
+	color:#949494;
+}
+.el-pager .number:hover, .el-pager .number.active {
+	border:1px solid rgba(77,80,94,1);
+	color:rgba(77,80,94,1)!important;
+}
+.el-pagination  button {
+	background: #fff!important;
+	border-radius:2px;
+	border:1px solid rgba(232,232,232,1);
+	font-size: 12px;
+	color:#949494;
+}
+.el-pagination .el-icon.more.el-icon-more {
+	background: transparent;
+	color: #949494;
+}
+
+/* 重置form样式 */
+.el-form .el-form-item {
+	margin-bottom: 20px;
+}
+.el-form .el-form-item__label { /* 表单label */
+  font-size: 13px;
+  font-weight:400;
+  color:rgba(48,58,72,1);
+	line-height: 18px;
+}
+
+/* 重置tabs */
+/* 可以给<el-tabs>标签添加common-tabs类, 来应用下面的样式*/
+.common-tabs .el-tabs__header {
+   margin: 0px !important;
+ }
+.common-tabs .el-tabs__item {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+	font-weight:600 !important;
+	color:rgba(142,142,142,1) !important;
+	height: 45px;
+}
+.common-tabs .el-tabs__nav-wrap::after {
+	height: 1px;
+}
+/* hack */
+/* 让第一个tab, 没有padding-right. 因为如果有的话, 在只有一个tab时, 下面的滑块会过宽 */
+/* 同时让第二个tab, padding-left变为原来的两倍: 15px → 30px, 来保证tab位置平均分布 */
+.common-tabs .el-tabs__active-bar + .el-tabs__item {
+	padding-right: 0px!important;
+}
+.common-tabs .el-tabs__active-bar + .el-tabs__item + .el-tabs__item {
+	padding-left: 30px!important;
+}
+.common-tabs .el-tabs__nav>div:nth-of-type(2) {
+	padding-left: 0px!important;
+}
+.common-tabs .el-tabs__item.is-active {
+	color: #303A48 !important;
+}
+.common-tabs .el-tabs__active-bar {
+	background-color: #303A48 !important;
+	height: 5px !important;
+}
+.common-tabs .el-menu-item{
+	font-weight: 400;
+}
+.common-tabs .el-menu-item.is-active{
+	/* font-size: 13px; */
+	font-weight: 600;
+	color: #303133 !important;
+	border-bottom: 3px solid #303133 !important;
+}
+
+/* 重置input, button, select */
+.el-input .el-input__inner {
+	font-size: 12px;
+}
+.el-button span {
+	font-size: 12px;
+}
+
+/* 重置抽屉 */
+.drawer-item{
+	margin-bottom: 27px;
+}
+.drawer-item .title{
+	margin-bottom: 11px;
+	font-size:13px;
+	font-weight:400;
+	color:rgba(48,58,72,1);
+	line-height:18px;
+}
+
+/* 动画 */
+/* 向上浮现 */
+.up-enter-active, .up-leave-active {
+  transition: all .2s;
+}
+.up-enter, .up-leave-to {
+  transform: translateY(100%);
+}
+/* 页面滚动条修改 */
+.page-scroll-bar::-webkit-scrollbar{
+	width: 8px;
+	height: 8px;
+}
+.page-scroll-bar::-webkit-scrollbar-track {
+	border-radius: 0;
+}
+.page-scroll-bar::-webkit-scrollbar-thumb {
+	border-radius: 0;
+	border-radius: 5px;
+	background-color: rgba(144,147,153,.3);
+}
+.page-scroll-bar::-webkit-scrollbar-thumb:hover {
+	background-color: rgba(144,147,153,.3);
+}
+/* ele表格滚动条修改 */
+.el-table__body-wrapper::-webkit-scrollbar{
+	width: 8px;
+	height: 8px;
+}
+.el-table__body-wrapper::-webkit-scrollbar-track {
+	border-radius: 0;
+}
+.el-table__body-wrapper::-webkit-scrollbar-thumb {
+	border-radius: 0;
+	border-radius: 5px;
+	background-color: rgba(144,147,153,.3);
+}
+.el-table__body-wrapper::-webkit-scrollbar-thumb:hover {
+	background-color: rgba(144,147,153,.3);
+}
+.el-table__fixed-right{
+	height: 100% !important;
+	background-color: #fff;
+}
+/* 分页器居中 */
+.pagination-box{
+	margin-top: 15px;
+	text-align: center;
+}
+
+/* 管理身份页面顶部工具 */
+.admin-header-tools .title{
+	margin-top: 5px;
+	margin-bottom: 17px;
+	font-size: 16px;
+	font-weight: 600;
+	color: #4d505e;
+	/* line-height: 22px; */
+}
+.admin-header-tools .tools-box{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid #DFDFDF;
+}
+.admin-header-tools .tools-box .tools-btn-box{
+	padding-bottom: 8px;
+	display: flex;
+	align-items: center;
+	/* justify-content: flex-end; */
+}
+.tools-box .tools-btn-box .tools-item{
+	margin-left: 9px;
+}
+.tools-btn-box .tools-item.key-word-input{
+	width: 220px;
+}
+/* 管理身份页面表单 */
+.table-box {
+	position: relative;
+	margin-top: 25px;
+	border-top: 1px solid #DFDFDF;
+	border-left: 1px solid #DFDFDF;
+	border-right: 1px solid #DFDFDF;
+}
+.table-box .table{
+	position: absolute;
+	font-size:13px;
+	font-weight:400;
+	color:rgba(77,80,94,1);
+	line-height:23px;
+	border-right: 1px solid #E4E4E4;
+	border-left: 1px solid #E4E4E4;
+}
+.table-box .table .active-title{
+	font-size:14px;
+	font-weight:600;
+	color:rgba(77,80,94,1);
+	line-height:20px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+}
+.table-box .table .department{
+	font-size:13px;
+	font-weight:400;
+	color:rgba(148,148,148, .6);
+	line-height:18px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+}
+.table-box .table .btn-box{
+	display: flex;
+	align-items: center;
+}
+.table .btn-box .icon{
+	margin-right: 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
+.el-dialog__header .el-dialog__headerbtn .el-dialog__close{
+	color: #303A48;
+}
+.el-dialog__wrapper .el-dialog{
+	border-radius: 8px;
+}
+.loading-broder-btoom{
+	border-bottom: 1px solid #DFDFDF;
+}
+
+/* 带有search按钮的input框 */
+.search-with-button .el-input-group__append{
+	padding: 0 10px;
+	color: #303A48;
+	background: #F5F7FA!important;
+}
+
+/* loading */
+.common-loading {
+	z-index: 1000!important;
+}
