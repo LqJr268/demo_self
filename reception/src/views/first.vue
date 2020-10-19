@@ -404,7 +404,7 @@ export default {
       if (
         window.scrollY + window.screen.height >
         50 + document.getElementById("mainCon").scrollHeight
-      ) {
+      ) {//滚过高度+屏幕高度>页面大元素高度+大元素距整个文档顶部高度
         // console.log("触底");
         if (
           this.goods[this.typeScrollComponents.iNow].pageIndex <
